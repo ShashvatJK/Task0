@@ -1,4 +1,4 @@
-//Shashvat Jayakrishnan 110117078
+//Jayakrishnan 110117078
 #include<stdio.h>
 main(){
 	//inputting the array size and values
